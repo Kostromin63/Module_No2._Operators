@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cbcd4fc-4a5a-4cd9-bd25-c6847978a8b3" name="Changes" comment="Урок &quot;Цели и задачи. Поток выполнения программы.&quot;">
-      <change beforePath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6cbcd4fc-4a5a-4cd9-bd25-c6847978a8b3" name="Changes" comment="Урок &quot;Цели и задачи. Поток выполнения программы.&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717579140081</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Урок &quot;Цели и задачи. Поток выполнения программы.&quot;">
+      <option name="closed" value="true" />
+      <created>1717579521944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717579521944</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
