@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cbcd4fc-4a5a-4cd9-bd25-c6847978a8b3" name="Changes" comment="Добавил комментарии">
+    <list default="true" id="6cbcd4fc-4a5a-4cd9-bd25-c6847978a8b3" name="Changes" comment="Выполнение второго заадния модуля №2">
+      <change afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_2_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/repka" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_2_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,18 +27,18 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Kostromin63"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kostromin63&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Kostromin63/Module_No2._Operators..git",
-    "accountId": "85a4acae-26f5-4289-8aee-105276b5e2e0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kostromin63/Module_No2._Operators..git&quot;,
+    &quot;accountId&quot;: &quot;85a4acae-26f5-4289-8aee-105276b5e2e0&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -52,9 +54,11 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.main.executor": "Debug",
+    "Python.modele_2_2.executor": "Run",
+    "Python.module_2_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -145,14 +149,39 @@
       <option name="project" value="LOCAL" />
       <updated>1717585204030</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Добавил комментарии">
+      <option name="closed" value="true" />
+      <created>1717588321448</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717588321448</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Выполнение второго заадния модуля №2">
+      <option name="closed" value="true" />
+      <created>1717660971205</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1717660971205</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Выполнение второго заадния модуля №2">
+      <option name="closed" value="true" />
+      <created>1717661153374</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1717661153374</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Урок &quot;Цели и задачи. Поток выполнения программы.&quot;" />
     <MESSAGE value="Добавил комментарии" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил комментарии" />
+    <MESSAGE value="Выполнение второго заадния модуля №2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнение второго заадния модуля №2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
