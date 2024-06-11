@@ -66,3 +66,4 @@ second_field_of_stones = get_password(first_field_of_stones)
 print(second_field_of_stones)
 
 # https://github.com/Kostromin63/Module_No2._Operators.git
+# https://github.com/Kostromin63/Module_No2._Operators/blob/master/module2hard.py
