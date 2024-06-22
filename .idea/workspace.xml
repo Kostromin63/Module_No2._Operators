@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cbcd4fc-4a5a-4cd9-bd25-c6847978a8b3" name="Changes" comment="Выполнение первого заадния модуля №3.">
-      <change afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_2_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/.idea/shelf/Uncommitted_changes_before_Update_at_06_06_2024_11_02_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/.idea/shelf/Uncommitted_changes_before_Update_at_06_06_2024_11_02__Changes_.xml" beforeDir="false" />
+    <list default="true" id="6cbcd4fc-4a5a-4cd9-bd25-c6847978a8b3" name="Changes" comment="Выполнение третьего заадния модуля №3.">
+      <change afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module3hard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_2_7_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_2_7_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,22 +49,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.main.executor": "Debug",
-    "Python.modele_2_2.executor": "Run",
-    "Python.module2hard.executor": "Run",
-    "Python.module_2_3.executor": "Run",
-    "Python.module_2_4.executor": "Run",
-    "Python.module_2_5.executor": "Run",
-    "Python.module_2_6.executor": "Run",
-    "Python.module_2_7.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Vcs Notifications&quot;: &quot;VCS notifications&quot;,
+    &quot;Notification.DoNotAsk-Vcs Notifications&quot;: &quot;true&quot;,
+    &quot;Python.01_triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_calls_and_defaults.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_arbitrary_params.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modele_2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module2hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_7_1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aleksandr/Desktop/УрокиПитон/Лекции/Модуль3/+3МодульТильда(4)/03_arbitrary_params.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="module_2_7_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Module_No2._Operators" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_2_7_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.module_2_7_1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -234,7 +269,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718285575825</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Выполнение второго заадния модуля №3.">
+      <option name="closed" value="true" />
+      <created>1718532365806</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1718532365806</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Выполнение третьего заадния модуля №3.">
+      <option name="closed" value="true" />
+      <created>1718652419958</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1718652419958</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -247,25 +298,22 @@
     <MESSAGE value="Выполнение пятого заадния модуля №2" />
     <MESSAGE value="Выполнение дополнительного заадния модуля №2" />
     <MESSAGE value="Выполнение первого заадния модуля №3." />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнение первого заадния модуля №3." />
+    <MESSAGE value="Выполнение второго заадния модуля №3." />
+    <MESSAGE value="Выполнение третьего заадния модуля №3." />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнение третьего заадния модуля №3." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/main.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_2_4.py</url>
           <line>17</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_2_7.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="8" />
+          <url>file://$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_2_7_1.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
