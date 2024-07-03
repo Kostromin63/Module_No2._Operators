@@ -54,6 +54,7 @@ class House:
                 current_floor += 1
             print('Приехали, это ' + str(current_floor) + ' этаж.')
 
+
 h1 = House('ЖК Горский', 18)
 h2 = House('Домик в деревне', 2)
 
