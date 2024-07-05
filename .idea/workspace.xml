@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cbcd4fc-4a5a-4cd9-bd25-c6847978a8b3" name="Changes" comment="Домашняя работа по уроку &quot;Модули и пакеты">
+    <list default="true" id="6cbcd4fc-4a5a-4cd9-bd25-c6847978a8b3" name="Changes" comment="Домашняя работа по уроку &quot;Атрибуты и методы объекта.&quot;">
+      <change afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_5_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module5_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_5_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,34 +49,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Notification.DisplayName-DoNotAsk-Vcs Notifications": "VCS notifications",
-    "Notification.DoNotAsk-Vcs Notifications": "true",
-    "Python.01_triangle.executor": "Run",
-    "Python.02_calls_and_defaults.executor": "Run",
-    "Python.03_arbitrary_params.executor": "Run",
-    "Python.04_recursion.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.modele_2_2.executor": "Run",
-    "Python.module2hard.executor": "Run",
-    "Python.module3hard.executor": "Run",
-    "Python.module5_1.executor": "Run",
-    "Python.module_2_3.executor": "Run",
-    "Python.module_2_4.executor": "Run",
-    "Python.module_2_5.executor": "Run",
-    "Python.module_2_6.executor": "Run",
-    "Python.module_2_7.executor": "Run",
-    "Python.module_2_7_1.executor": "Run",
-    "Python.module_4_1.executor": "Run",
-    "Python.true_math.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Aleksandr/Desktop/УрокиПитон/Лекции/Модуль3/+3МодульТильда(4)/04_recursion.py",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Vcs Notifications&quot;: &quot;VCS notifications&quot;,
+    &quot;Notification.DoNotAsk-Vcs Notifications&quot;: &quot;true&quot;,
+    &quot;Python.01_triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_calls_and_defaults.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_arbitrary_params.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modele_2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module2hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module3hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_7_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.true_math.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aleksandr/Desktop/УрокиПитон/Лекции/Модуль3/+3МодульТильда(4)/04_recursion.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="module_2_7_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Module_No2._Operators" />
@@ -329,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719991314054</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Домашняя работа по уроку &quot;Атрибуты и методы объекта.&quot;">
+      <option name="closed" value="true" />
+      <created>1719991376523</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1719991376523</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -345,7 +354,8 @@
     <MESSAGE value="Выполнение второго заадния модуля №3." />
     <MESSAGE value="Выполнение третьего заадния модуля №3." />
     <MESSAGE value="Домашняя работа по уроку &quot;Модули и пакеты" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа по уроку &quot;Модули и пакеты" />
+    <MESSAGE value="Домашняя работа по уроку &quot;Атрибуты и методы объекта.&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа по уроку &quot;Атрибуты и методы объекта.&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
