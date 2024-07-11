@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cbcd4fc-4a5a-4cd9-bd25-c6847978a8b3" name="Changes" comment="Домашняя работа по уроку &quot;Атрибуты и методы объекта.&quot;">
-      <change afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_5_2.py" afterDir="false" />
+    <list default="true" id="6cbcd4fc-4a5a-4cd9-bd25-c6847978a8b3" name="Changes" comment="Домашняя работа по уроку &quot;Специальные методы классов&quot;">
+      <change afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/moduie_5_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_5_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +59,7 @@
     &quot;Python.04_recursion.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.modele_2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.moduie_5_3.executor&quot;: &quot;Run&quot;,
     &quot;Python.module2hard.executor&quot;: &quot;Run&quot;,
     &quot;Python.module3hard.executor&quot;: &quot;Run&quot;,
     &quot;Python.module5_1.executor&quot;: &quot;Run&quot;,
@@ -70,6 +70,7 @@
     &quot;Python.module_2_7.executor&quot;: &quot;Run&quot;,
     &quot;Python.module_2_7_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.module_4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.true_math.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -338,7 +339,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719991376523</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Домашняя работа по уроку &quot;Специальные методы классов&quot;">
+      <option name="closed" value="true" />
+      <created>1720166355760</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1720166355760</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -355,7 +364,8 @@
     <MESSAGE value="Выполнение третьего заадния модуля №3." />
     <MESSAGE value="Домашняя работа по уроку &quot;Модули и пакеты" />
     <MESSAGE value="Домашняя работа по уроку &quot;Атрибуты и методы объекта.&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа по уроку &quot;Атрибуты и методы объекта.&quot;" />
+    <MESSAGE value="Домашняя работа по уроку &quot;Специальные методы классов&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа по уроку &quot;Специальные методы классов&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
