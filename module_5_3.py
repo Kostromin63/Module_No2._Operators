@@ -63,7 +63,7 @@
 # Методы __iadd__ и __radd__ не обязательно описывать заново, достаточно вернуть значение вызова __add__.
 # Более подробно о работе всех перечисленных методов можно прочитать здесь и здесь.
 
-def convert_parameters(new_list = None):
+def convert_parameters(new_list=None):
 
     if isinstance(new_list[0], int):
         pass
