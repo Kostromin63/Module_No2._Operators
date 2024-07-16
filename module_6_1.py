@@ -38,6 +38,7 @@ class Animal:
 # Для класса Plant атрибут edible = False(съедобность), name - индивидуальное название каждого растения
 class Plant:
     edible = False
+
     def __init__(self, name):
         self.name = name
 
@@ -66,7 +67,7 @@ class Flower(Plant):
 
 
 class Fruit(Plant):
-        edible = True
+    edible = True
 
 
 # Создайте объекты классов и проделайте действия затронутые в примере результата работы программы.
