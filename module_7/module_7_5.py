@@ -40,18 +40,19 @@ import os
 import time
 
 directory = os.getcwd()
-# directory = '.'
+# directory = '.' если так, то не получается получить родительский каталог. Или его и не должно быть?
 
 _tree = os.walk(directory)
 for i in _tree:
     print(i)
 
 for root, dirs, files in os.walk(directory):
-  for file in files:
-    filepath = os.path.join(file)
-    filetime = os.path.getmtime(file)
-    formatted_time = time.strftime("%d.%m.%Y %H:%M", time.localtime(filetime))
-    filesize = os.path.getsize(file)
-    parent_dir = os.path.dirname(root)
-    print(f'Обнаружен файл: {file}, Путь: {root}/{filepath}, Размер: {filesize} байт, Время изменения: {formatted_time}, '
-          f'Родительская директория: {parent_dir}')
+    for file in files:
+        filepath = os.path.join(file)
+        filetime = os.path.getmtime(file)
+        formatted_time = time.strftime("%d.%m.%Y %H:%M", time.localtime(filetime))
+        filesize = os.path.getsize(file)
+        parent_dir = os.path.dirname(root)
+        print(
+            f'Обнаружен файл: {file}, Путь: {root}/{filepath}, Размер: {filesize} байт, Время изменения: '
+            f'{formatted_time} , Родительская директория: {parent_dir}')
