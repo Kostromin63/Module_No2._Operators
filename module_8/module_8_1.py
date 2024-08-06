@@ -24,7 +24,7 @@ def add_everything_up(a, b):
     try:
         result = a + b
         return round(result, 3)
-    except TypeError:
+    except TypeError as ext:
         result = f'{str(a)}{str(b)}'
         return result
 
