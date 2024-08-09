@@ -70,7 +70,7 @@ class MysticBall:
 
     def __call__(self):
         i = random.choice(self.words)
-        #   i = random.randrange(0, len(self.words), 1)
+        #   i = random.randrange(0, len(self.words) - 1)
         return i
 #  self.words[i]
 
