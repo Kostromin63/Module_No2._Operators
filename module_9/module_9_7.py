@@ -19,15 +19,15 @@ def is_prime(func):
 
         if number < 2:
             print('Ни простое ни составное, а так себе')
-            simple = None
         else:
             divider = 2
             for divider in range(divider, number):
                 compound = number % divider == 0
-                divider = divider + 1
+
                 if compound:
                     simple = False
                     break
+                divider += 1
             if simple:
                 print('Простое')
             else:
