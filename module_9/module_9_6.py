@@ -18,8 +18,8 @@ def all_variants(text, number_iteration=1):
     number_of_iterations = len(text)
     # end = len(text)
 
-    for i in range(number_of_iterations):
-        first_index = i
+    for n in range(number_of_iterations):
+        first_index = n
         second_index = first_index + number_iteration
         if len(text[first_index: second_index]) == number_iteration:
             yield text[first_index: second_index]
