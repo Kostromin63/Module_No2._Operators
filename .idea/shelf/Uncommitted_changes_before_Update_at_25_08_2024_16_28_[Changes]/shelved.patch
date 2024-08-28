@@ -1,0 +1,1025 @@
+Index: ../../Module_No2._Operators/Module_No2._Operators/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"6cbcd4fc-4a5a-4cd9-bd25-c6847978a8b3\" name=\"Changes\" comment=\"Домашняя работа по уроку &quot;Специальные методы классов&quot;\">\r\n      <change afterPath=\"$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/moduie_5_3.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"main\" />\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;Kostromin63&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/Kostromin63/Module_No2._Operators..git&quot;,\r\n    &quot;accountId&quot;: &quot;85a4acae-26f5-4289-8aee-105276b5e2e0&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 8\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2hSD3iTJuDHic1CMOAFJ1QbrZYe\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,\r\n    &quot;Notification.DisplayName-DoNotAsk-Vcs Notifications&quot;: &quot;VCS notifications&quot;,\r\n    &quot;Notification.DoNotAsk-Vcs Notifications&quot;: &quot;true&quot;,\r\n    &quot;Python.01_triangle.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.02_calls_and_defaults.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.03_arbitrary_params.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.04_recursion.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.main.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.modele_2_2.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.moduie_5_3.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.module2hard.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.module3hard.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.module5_1.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.module_2_6.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.module_2_7.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.module_2_7_1.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.module_4_1.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.module_5_2.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.true_math.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aleksandr/Desktop/УрокиПитон/Лекции/Модуль3/+3МодульТильда(4)/04_recursion.py&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"module_2_7_1\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Module_No2._Operators\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_2_7_1.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.module_2_7_1\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"6cbcd4fc-4a5a-4cd9-bd25-c6847978a8b3\" name=\"Changes\" comment=\"\" />\r\n      <created>1717578387601</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1717578387601</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Урок &quot;Цели и задачи. Поток выполнения программы.&quot;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717579140081</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717579140081</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Урок &quot;Цели и задачи. Поток выполнения программы.&quot;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717579521944</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717579521944</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Урок &quot;Цели и задачи. Поток выполнения программы.&quot;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717579916888</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717579916888</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Урок &quot;Цели и задачи. Поток выполнения программы.&quot;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717579989551</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717579989551</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Урок &quot;Цели и задачи. Поток выполнения программы.&quot;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717580128369</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717580128369</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Урок &quot;Цели и задачи. Поток выполнения программы.&quot;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717584423057</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717584423057</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Урок &quot;Цели и задачи. Поток выполнения программы.&quot;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717584729776</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717584729776</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Добавил комментарии\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717585031816</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717585031816</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Добавил комментарии\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717585204030</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717585204030</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Добавил комментарии\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717588321448</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717588321448</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"Выполнение второго заадния модуля №2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717660971205</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717660971205</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"Выполнение второго заадния модуля №2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717661153374</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717661153374</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"Выполнение третьего заадния модуля №2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717762722055</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717762722055</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"Выполнение четвертого заадния модуля №2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717865749455</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717865749455</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"Выполнение четвертого заадния модуля №2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1718043807469</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1718043807469</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"Выполнение пятого заадния модуля №2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1718044128675</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1718044128675</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"Выполнение дополнительного заадния модуля №2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1718131947509</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1718131947509</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00018\" summary=\"Выполнение дополнительного заадния модуля №2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1718132333498</created>\r\n      <option name=\"number\" value=\"00018\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00018\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1718132333498</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00019\" summary=\"Выполнение первого заадния модуля №3.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1718285575825</created>\r\n      <option name=\"number\" value=\"00019\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00019\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1718285575825</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00020\" summary=\"Выполнение второго заадния модуля №3.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1718532365806</created>\r\n      <option name=\"number\" value=\"00020\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00020\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1718532365806</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00021\" summary=\"Выполнение третьего заадния модуля №3.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1718652419958</created>\r\n      <option name=\"number\" value=\"00021\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00021\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1718652419958</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00022\" summary=\"Выполнение третьего заадния модуля №3.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1719075428338</created>\r\n      <option name=\"number\" value=\"00022\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00022\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1719075428338</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00023\" summary=\"Выполнение третьего заадния модуля №3.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1719075529824</created>\r\n      <option name=\"number\" value=\"00023\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00023\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1719075529824</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00024\" summary=\"Домашняя работа по уроку &quot;Модули и пакеты\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1719573027724</created>\r\n      <option name=\"number\" value=\"00024\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00024\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1719573027724</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00025\" summary=\"Домашняя работа по уроку &quot;Модули и пакеты\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1719845475296</created>\r\n      <option name=\"number\" value=\"00025\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00025\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1719845475296</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00026\" summary=\"Домашняя работа по уроку &quot;Модули и пакеты\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1719991314054</created>\r\n      <option name=\"number\" value=\"00026\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00026\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1719991314054</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00027\" summary=\"Домашняя работа по уроку &quot;Атрибуты и методы объекта.&quot;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1719991376523</created>\r\n      <option name=\"number\" value=\"00027\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00027\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1719991376523</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00028\" summary=\"Домашняя работа по уроку &quot;Специальные методы классов&quot;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1720166355760</created>\r\n      <option name=\"number\" value=\"00028\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00028\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1720166355760</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"29\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"Урок &quot;Цели и задачи. Поток выполнения программы.&quot;\" />\r\n    <MESSAGE value=\"Добавил комментарии\" />\r\n    <MESSAGE value=\"Выполнение второго заадния модуля №2\" />\r\n    <MESSAGE value=\"Выполнение третьего заадния модуля №2\" />\r\n    <MESSAGE value=\"Выполнение четвертого заадния модуля №2\" />\r\n    <MESSAGE value=\"Выполнение пятого заадния модуля №2\" />\r\n    <MESSAGE value=\"Выполнение дополнительного заадния модуля №2\" />\r\n    <MESSAGE value=\"Выполнение первого заадния модуля №3.\" />\r\n    <MESSAGE value=\"Выполнение второго заадния модуля №3.\" />\r\n    <MESSAGE value=\"Выполнение третьего заадния модуля №3.\" />\r\n    <MESSAGE value=\"Домашняя работа по уроку &quot;Модули и пакеты\" />\r\n    <MESSAGE value=\"Домашняя работа по уроку &quot;Атрибуты и методы объекта.&quot;\" />\r\n    <MESSAGE value=\"Домашняя работа по уроку &quot;Специальные методы классов&quot;\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Домашняя работа по уроку &quot;Специальные методы классов&quot;\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_2_4.py</url>\r\n          <line>17</line>\r\n          <option name=\"timeStamp\" value=\"6\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_2_7_1.py</url>\r\n          <line>9</line>\r\n          <option name=\"timeStamp\" value=\"8\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Module_No2._Operators/Module_No2._Operators/.idea/workspace.xml b/../../Module_No2._Operators/Module_No2._Operators/.idea/workspace.xml
+--- a/../../Module_No2._Operators/Module_No2._Operators/.idea/workspace.xml	(revision 08610d0c1e80448b9aaa2dad4388fe1b29a3f5a7)
++++ b/../../Module_No2._Operators/Module_No2._Operators/.idea/workspace.xml	(date 1724592413717)
+@@ -4,8 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="6cbcd4fc-4a5a-4cd9-bd25-c6847978a8b3" name="Changes" comment="Домашняя работа по уроку &quot;Специальные методы классов&quot;">
+-      <change afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/moduie_5_3.py" afterDir="false" />
++    <list default="true" id="6cbcd4fc-4a5a-4cd9-bd25-c6847978a8b3" name="Changes" comment="Дополнительное практическое задание по модулю: &quot;Наследование классов.&quot;">
++      <change afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_5/module5hard.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/.idea/misc.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -48,69 +49,77 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+-    &quot;Notification.DisplayName-DoNotAsk-Vcs Notifications&quot;: &quot;VCS notifications&quot;,
+-    &quot;Notification.DoNotAsk-Vcs Notifications&quot;: &quot;true&quot;,
+-    &quot;Python.01_triangle.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.02_calls_and_defaults.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.03_arbitrary_params.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.04_recursion.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.modele_2_2.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.moduie_5_3.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.module2hard.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.module3hard.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.module5_1.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.module_2_6.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.module_2_7.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.module_2_7_1.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.module_4_1.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.module_5_2.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.true_math.executor&quot;: &quot;Run&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aleksandr/Desktop/УрокиПитон/Лекции/Модуль3/+3МодульТильда(4)/04_recursion.py&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "ASKED_ADD_EXTERNAL_FILES": "true",
++    "Notification.DisplayName-DoNotAsk-Vcs Notifications": "VCS notifications",
++    "Notification.DoNotAsk-Vcs Notifications": "true",
++    "Python.01_triangle.executor": "Run",
++    "Python.02_calls_and_defaults.executor": "Run",
++    "Python.03_arbitrary_params.executor": "Run",
++    "Python.04_recursion.executor": "Run",
++    "Python.main.executor": "Run",
++    "Python.modele_2_2.executor": "Run",
++    "Python.moduie_5_3.executor": "Run",
++    "Python.module2hard.executor": "Run",
++    "Python.module3hard.executor": "Run",
++    "Python.module5_1.executor": "Run",
++    "Python.module5hard.executor": "Run",
++    "Python.module6hard.executor": "Run",
++    "Python.module_10_1.executor": "Run",
++    "Python.module_10_2.executor": "Run",
++    "Python.module_10_3.executor": "Run",
++    "Python.module_2_3.executor": "Run",
++    "Python.module_2_4.executor": "Run",
++    "Python.module_2_5.executor": "Run",
++    "Python.module_2_6.executor": "Run",
++    "Python.module_2_7.executor": "Run",
++    "Python.module_2_7_1.executor": "Run",
++    "Python.module_3_1.executor": "Run",
++    "Python.module_3_4.executor": "Run",
++    "Python.module_4_1.executor": "Run",
++    "Python.module_5_2.executor": "Run",
++    "Python.module_5_3.executor": "Run",
++    "Python.module_5_3_1.executor": "Run",
++    "Python.module_6_1.executor": "Run",
++    "Python.module_6_2.executor": "Run",
++    "Python.module_6_3.executor": "Run",
++    "Python.module_7_1.executor": "Run",
++    "Python.module_7_2.executor": "Run",
++    "Python.module_7_3.executor": "Run",
++    "Python.module_7_4.executor": "Run",
++    "Python.module_7_5.executor": "Run",
++    "Python.module_8_1.executor": "Run",
++    "Python.module_8_2.executor": "Run",
++    "Python.module_8_3.executor": "Run",
++    "Python.module_8_4.executor": "Debug",
++    "Python.module_9_1.executor": "Run",
++    "Python.module_9_2.executor": "Run",
++    "Python.module_9_3.executor": "Debug",
++    "Python.module_9_4.executor": "Run",
++    "Python.module_9_5.executor": "Run",
++    "Python.module_9_6.executor": "Run",
++    "Python.module_9_7.executor": "Run",
++    "Python.true_math.executor": "Run",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "git-widget-placeholder": "master",
++    "last_opened_file_path": "C:/Users/Aleksandr/Desktop/УрокиПитон/Лекции/Модуль3/+3МодульТильда(4)/04_recursion.py",
++    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+   }
+-}</component>
+-  <component name="RunManager">
+-    <configuration name="module_2_7_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-      <module name="Module_No2._Operators" />
+-      <option name="ENV_FILES" value="" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <envs>
+-        <env name="PYTHONUNBUFFERED" value="1" />
+-      </envs>
+-      <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators" />
+-      <option name="IS_MODULE_SDK" value="true" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_2_7_1.py" />
+-      <option name="PARAMETERS" value="" />
+-      <option name="SHOW_COMMAND_LINE" value="false" />
+-      <option name="EMULATE_TERMINAL" value="false" />
+-      <option name="MODULE_MODE" value="false" />
+-      <option name="REDIRECT_INPUT" value="false" />
+-      <option name="INPUT_FILE" value="" />
+-      <method v="2" />
+-    </configuration>
+-    <recent_temporary>
+-      <list>
+-        <item itemvalue="Python.module_2_7_1" />
+-      </list>
+-    </recent_temporary>
++}]]></component>
++  <component name="RecentsManager">
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="C:\Users\Aleksandr\PycharmProjects\Module_No2._Operators\Module_No2._Operators\module_9" />
++      <recent name="C:\Users\Aleksandr\PycharmProjects\Module_No2._Operators\Module_No2._Operators\module_8" />
++      <recent name="C:\Users\Aleksandr\PycharmProjects\Module_No2._Operators\Module_No2._Operators\module_7" />
++      <recent name="C:\Users\Aleksandr\PycharmProjects\Module_No2._Operators\Module_No2._Operators\module_6" />
++      <recent name="C:\Users\Aleksandr\PycharmProjects\Module_No2._Operators\Module_No2._Operators\module_5" />
++    </key>
+   </component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+-        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
++        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+       </set>
+     </attachedChunks>
+   </component>
+@@ -123,264 +132,444 @@
+       <option name="presentableId" value="Default" />
+       <updated>1717578387601</updated>
+     </task>
+-    <task id="LOCAL-00001" summary="Урок &quot;Цели и задачи. Поток выполнения программы.&quot;">
++    <task id="LOCAL-00020" summary="Выполнение второго заадния модуля №3.">
+       <option name="closed" value="true" />
+-      <created>1717579140081</created>
+-      <option name="number" value="00001" />
+-      <option name="presentableId" value="LOCAL-00001" />
++      <created>1718532365806</created>
++      <option name="number" value="00020" />
++      <option name="presentableId" value="LOCAL-00020" />
+       <option name="project" value="LOCAL" />
+-      <updated>1717579140081</updated>
++      <updated>1718532365806</updated>
+     </task>
+-    <task id="LOCAL-00002" summary="Урок &quot;Цели и задачи. Поток выполнения программы.&quot;">
++    <task id="LOCAL-00021" summary="Выполнение третьего заадния модуля №3.">
+       <option name="closed" value="true" />
+-      <created>1717579521944</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
++      <created>1718652419958</created>
++      <option name="number" value="00021" />
++      <option name="presentableId" value="LOCAL-00021" />
+       <option name="project" value="LOCAL" />
+-      <updated>1717579521944</updated>
++      <updated>1718652419958</updated>
+     </task>
+-    <task id="LOCAL-00003" summary="Урок &quot;Цели и задачи. Поток выполнения программы.&quot;">
++    <task id="LOCAL-00022" summary="Выполнение третьего заадния модуля №3.">
+       <option name="closed" value="true" />
+-      <created>1717579916888</created>
+-      <option name="number" value="00003" />
+-      <option name="presentableId" value="LOCAL-00003" />
++      <created>1719075428338</created>
++      <option name="number" value="00022" />
++      <option name="presentableId" value="LOCAL-00022" />
+       <option name="project" value="LOCAL" />
+-      <updated>1717579916888</updated>
++      <updated>1719075428338</updated>
+     </task>
+-    <task id="LOCAL-00004" summary="Урок &quot;Цели и задачи. Поток выполнения программы.&quot;">
++    <task id="LOCAL-00023" summary="Выполнение третьего заадния модуля №3.">
+       <option name="closed" value="true" />
+-      <created>1717579989551</created>
+-      <option name="number" value="00004" />
+-      <option name="presentableId" value="LOCAL-00004" />
++      <created>1719075529824</created>
++      <option name="number" value="00023" />
++      <option name="presentableId" value="LOCAL-00023" />
+       <option name="project" value="LOCAL" />
+-      <updated>1717579989551</updated>
++      <updated>1719075529824</updated>
+     </task>
+-    <task id="LOCAL-00005" summary="Урок &quot;Цели и задачи. Поток выполнения программы.&quot;">
++    <task id="LOCAL-00024" summary="Домашняя работа по уроку &quot;Модули и пакеты">
+       <option name="closed" value="true" />
+-      <created>1717580128369</created>
+-      <option name="number" value="00005" />
+-      <option name="presentableId" value="LOCAL-00005" />
++      <created>1719573027724</created>
++      <option name="number" value="00024" />
++      <option name="presentableId" value="LOCAL-00024" />
+       <option name="project" value="LOCAL" />
+-      <updated>1717580128369</updated>
++      <updated>1719573027724</updated>
+     </task>
+-    <task id="LOCAL-00006" summary="Урок &quot;Цели и задачи. Поток выполнения программы.&quot;">
++    <task id="LOCAL-00025" summary="Домашняя работа по уроку &quot;Модули и пакеты">
+       <option name="closed" value="true" />
+-      <created>1717584423057</created>
+-      <option name="number" value="00006" />
+-      <option name="presentableId" value="LOCAL-00006" />
++      <created>1719845475296</created>
++      <option name="number" value="00025" />
++      <option name="presentableId" value="LOCAL-00025" />
+       <option name="project" value="LOCAL" />
+-      <updated>1717584423057</updated>
++      <updated>1719845475296</updated>
+     </task>
+-    <task id="LOCAL-00007" summary="Урок &quot;Цели и задачи. Поток выполнения программы.&quot;">
++    <task id="LOCAL-00026" summary="Домашняя работа по уроку &quot;Модули и пакеты">
+       <option name="closed" value="true" />
+-      <created>1717584729776</created>
+-      <option name="number" value="00007" />
+-      <option name="presentableId" value="LOCAL-00007" />
++      <created>1719991314054</created>
++      <option name="number" value="00026" />
++      <option name="presentableId" value="LOCAL-00026" />
+       <option name="project" value="LOCAL" />
+-      <updated>1717584729776</updated>
++      <updated>1719991314054</updated>
+     </task>
+-    <task id="LOCAL-00008" summary="Добавил комментарии">
++    <task id="LOCAL-00027" summary="Домашняя работа по уроку &quot;Атрибуты и методы объекта.&quot;">
+       <option name="closed" value="true" />
+-      <created>1717585031816</created>
+-      <option name="number" value="00008" />
+-      <option name="presentableId" value="LOCAL-00008" />
++      <created>1719991376523</created>
++      <option name="number" value="00027" />
++      <option name="presentableId" value="LOCAL-00027" />
+       <option name="project" value="LOCAL" />
+-      <updated>1717585031816</updated>
++      <updated>1719991376523</updated>
+     </task>
+-    <task id="LOCAL-00009" summary="Добавил комментарии">
++    <task id="LOCAL-00028" summary="Домашняя работа по уроку &quot;Специальные методы классов&quot;">
+       <option name="closed" value="true" />
+-      <created>1717585204030</created>
+-      <option name="number" value="00009" />
+-      <option name="presentableId" value="LOCAL-00009" />
++      <created>1720166355760</created>
++      <option name="number" value="00028" />
++      <option name="presentableId" value="LOCAL-00028" />
+       <option name="project" value="LOCAL" />
+-      <updated>1717585204030</updated>
++      <updated>1720166355760</updated>
+     </task>
+-    <task id="LOCAL-00010" summary="Добавил комментарии">
++    <task id="LOCAL-00029" summary="Домашняя работа по уроку &quot;Перегрузка операторов.&quot;">
+       <option name="closed" value="true" />
+-      <created>1717588321448</created>
+-      <option name="number" value="00010" />
+-      <option name="presentableId" value="LOCAL-00010" />
++      <created>1720725817925</created>
++      <option name="number" value="00029" />
++      <option name="presentableId" value="LOCAL-00029" />
+       <option name="project" value="LOCAL" />
+-      <updated>1717588321448</updated>
++      <updated>1720725817925</updated>
+     </task>
+-    <task id="LOCAL-00011" summary="Выполнение второго заадния модуля №2">
++    <task id="LOCAL-00030" summary="Домашняя работа по уроку &quot;Различие атрибутов класса и экземпляра.&quot;">
+       <option name="closed" value="true" />
+-      <created>1717660971205</created>
+-      <option name="number" value="00011" />
+-      <option name="presentableId" value="LOCAL-00011" />
++      <created>1720958855933</created>
++      <option name="number" value="00030" />
++      <option name="presentableId" value="LOCAL-00030" />
+       <option name="project" value="LOCAL" />
+-      <updated>1717660971205</updated>
++      <updated>1720958855933</updated>
+     </task>
+-    <task id="LOCAL-00012" summary="Выполнение второго заадния модуля №2">
++    <task id="LOCAL-00031" summary="Домашнее задание по теме &quot;Зачем нужно наследование&quot;">
+       <option name="closed" value="true" />
+-      <created>1717661153374</created>
+-      <option name="number" value="00012" />
+-      <option name="presentableId" value="LOCAL-00012" />
++      <created>1721034664162</created>
++      <option name="number" value="00031" />
++      <option name="presentableId" value="LOCAL-00031" />
+       <option name="project" value="LOCAL" />
+-      <updated>1717661153374</updated>
++      <updated>1721034664162</updated>
+     </task>
+-    <task id="LOCAL-00013" summary="Выполнение третьего заадния модуля №2">
++    <task id="LOCAL-00032" summary="Домашнее задание по теме &quot;Зачем нужно наследование&quot;">
+       <option name="closed" value="true" />
+-      <created>1717762722055</created>
+-      <option name="number" value="00013" />
+-      <option name="presentableId" value="LOCAL-00013" />
++      <created>1721072081962</created>
++      <option name="number" value="00032" />
++      <option name="presentableId" value="LOCAL-00032" />
+       <option name="project" value="LOCAL" />
+-      <updated>1717762722055</updated>
++      <updated>1721072081962</updated>
+     </task>
+-    <task id="LOCAL-00014" summary="Выполнение четвертого заадния модуля №2">
++    <task id="LOCAL-00033" summary="Домашнее задание по теме &quot;Доступ к свойствам родителя. Переопределение свойств.&quot;">
+       <option name="closed" value="true" />
+-      <created>1717865749455</created>
+-      <option name="number" value="00014" />
+-      <option name="presentableId" value="LOCAL-00014" />
++      <created>1721072146032</created>
++      <option name="number" value="00033" />
++      <option name="presentableId" value="LOCAL-00033" />
+       <option name="project" value="LOCAL" />
+-      <updated>1717865749455</updated>
++      <updated>1721072146032</updated>
+     </task>
+-    <task id="LOCAL-00015" summary="Выполнение четвертого заадния модуля №2">
++    <task id="LOCAL-00034" summary="Домашнее задание по теме &quot;Множественное наследование&quot;">
+       <option name="closed" value="true" />
+-      <created>1718043807469</created>
+-      <option name="number" value="00015" />
+-      <option name="presentableId" value="LOCAL-00015" />
++      <created>1721122431701</created>
++      <option name="number" value="00034" />
++      <option name="presentableId" value="LOCAL-00034" />
+       <option name="project" value="LOCAL" />
+-      <updated>1718043807469</updated>
++      <updated>1721122431701</updated>
+     </task>
+-    <task id="LOCAL-00016" summary="Выполнение пятого заадния модуля №2">
++    <task id="LOCAL-00035" summary="Домашнее задание по теме &quot;Множественное наследование&quot;">
+       <option name="closed" value="true" />
+-      <created>1718044128675</created>
+-      <option name="number" value="00016" />
+-      <option name="presentableId" value="LOCAL-00016" />
++      <created>1721204890799</created>
++      <option name="number" value="00035" />
++      <option name="presentableId" value="LOCAL-00035" />
+       <option name="project" value="LOCAL" />
+-      <updated>1718044128675</updated>
++      <updated>1721204890799</updated>
+     </task>
+-    <task id="LOCAL-00017" summary="Выполнение дополнительного заадния модуля №2">
++    <task id="LOCAL-00036" summary="# Домашняя работа по уроку &quot;Пространство имён&quot;">
+       <option name="closed" value="true" />
+-      <created>1718131947509</created>
+-      <option name="number" value="00017" />
+-      <option name="presentableId" value="LOCAL-00017" />
++      <created>1721204978304</created>
++      <option name="number" value="00036" />
++      <option name="presentableId" value="LOCAL-00036" />
+       <option name="project" value="LOCAL" />
+-      <updated>1718131947509</updated>
++      <updated>1721204978304</updated>
+     </task>
+-    <task id="LOCAL-00018" summary="Выполнение дополнительного заадния модуля №2">
++    <task id="LOCAL-00037" summary="Самостоятельная работа по уроку &quot;Произвольное число параметров&quot;.">
+       <option name="closed" value="true" />
+-      <created>1718132333498</created>
+-      <option name="number" value="00018" />
+-      <option name="presentableId" value="LOCAL-00018" />
++      <created>1721206031334</created>
++      <option name="number" value="00037" />
++      <option name="presentableId" value="LOCAL-00037" />
+       <option name="project" value="LOCAL" />
+-      <updated>1718132333498</updated>
++      <updated>1721206031334</updated>
+     </task>
+-    <task id="LOCAL-00019" summary="Выполнение первого заадния модуля №3.">
++    <task id="LOCAL-00038" summary="Домашнее задание по теме &quot;Режимы открытия файлов&quot;">
+       <option name="closed" value="true" />
+-      <created>1718285575825</created>
+-      <option name="number" value="00019" />
+-      <option name="presentableId" value="LOCAL-00019" />
++      <created>1721577739385</created>
++      <option name="number" value="00038" />
++      <option name="presentableId" value="LOCAL-00038" />
+       <option name="project" value="LOCAL" />
+-      <updated>1718285575825</updated>
++      <updated>1721577739385</updated>
+     </task>
+-    <task id="LOCAL-00020" summary="Выполнение второго заадния модуля №3.">
++    <task id="LOCAL-00039" summary="Домашнее задание по теме &quot;Позиционирование в файле&quot;.">
+       <option name="closed" value="true" />
+-      <created>1718532365806</created>
+-      <option name="number" value="00020" />
+-      <option name="presentableId" value="LOCAL-00020" />
++      <created>1722100857189</created>
++      <option name="number" value="00039" />
++      <option name="presentableId" value="LOCAL-00039" />
+       <option name="project" value="LOCAL" />
+-      <updated>1718532365806</updated>
++      <updated>1722100857189</updated>
+     </task>
+-    <task id="LOCAL-00021" summary="Выполнение третьего заадния модуля №3.">
++    <task id="LOCAL-00040" summary="Домашнее задание по теме Домашнее задание по теме &quot;Оператор &quot;with&quot;.">
+       <option name="closed" value="true" />
+-      <created>1718652419958</created>
+-      <option name="number" value="00021" />
+-      <option name="presentableId" value="LOCAL-00021" />
++      <created>1722838042808</created>
++      <option name="number" value="00040" />
++      <option name="presentableId" value="LOCAL-00040" />
+       <option name="project" value="LOCAL" />
+-      <updated>1718652419958</updated>
++      <updated>1722838042808</updated>
+     </task>
+-    <task id="LOCAL-00022" summary="Выполнение третьего заадния модуля №3.">
++    <task id="LOCAL-00041" summary="Домашнее задание по теме Домашнее задание по теме &quot;Форматирование строк&quot;.">
+       <option name="closed" value="true" />
+-      <created>1719075428338</created>
+-      <option name="number" value="00022" />
+-      <option name="presentableId" value="LOCAL-00022" />
++      <created>1722851960905</created>
++      <option name="number" value="00041" />
++      <option name="presentableId" value="LOCAL-00041" />
+       <option name="project" value="LOCAL" />
+-      <updated>1719075428338</updated>
++      <updated>1722851960905</updated>
+     </task>
+-    <task id="LOCAL-00023" summary="Выполнение третьего заадния модуля №3.">
++    <task id="LOCAL-00042" summary="Перемещение в другой каталог">
+       <option name="closed" value="true" />
+-      <created>1719075529824</created>
+-      <option name="number" value="00023" />
+-      <option name="presentableId" value="LOCAL-00023" />
++      <created>1722868997618</created>
++      <option name="number" value="00042" />
++      <option name="presentableId" value="LOCAL-00042" />
+       <option name="project" value="LOCAL" />
+-      <updated>1719075529824</updated>
++      <updated>1722868997618</updated>
+     </task>
+-    <task id="LOCAL-00024" summary="Домашняя работа по уроку &quot;Модули и пакеты">
++    <task id="LOCAL-00043" summary="Перемещение в другой каталог">
+       <option name="closed" value="true" />
+-      <created>1719573027724</created>
+-      <option name="number" value="00024" />
+-      <option name="presentableId" value="LOCAL-00024" />
++      <created>1722929820522</created>
++      <option name="number" value="00043" />
++      <option name="presentableId" value="LOCAL-00043" />
+       <option name="project" value="LOCAL" />
+-      <updated>1719573027724</updated>
++      <updated>1722929820522</updated>
+     </task>
+-    <task id="LOCAL-00025" summary="Домашняя работа по уроку &quot;Модули и пакеты">
++    <task id="LOCAL-00044" summary="Выполнение Домашнего задания по теме &quot;Файлы в операционной системе&quot;.">
+       <option name="closed" value="true" />
+-      <created>1719845475296</created>
+-      <option name="number" value="00025" />
+-      <option name="presentableId" value="LOCAL-00025" />
++      <created>1722929884264</created>
++      <option name="number" value="00044" />
++      <option name="presentableId" value="LOCAL-00044" />
+       <option name="project" value="LOCAL" />
+-      <updated>1719845475296</updated>
++      <updated>1722929884264</updated>
+     </task>
+-    <task id="LOCAL-00026" summary="Домашняя работа по уроку &quot;Модули и пакеты">
++    <task id="LOCAL-00045" summary="Выполнение Домашнего задания по теме &quot;Файлы в операционной системе&quot;.">
+       <option name="closed" value="true" />
+-      <created>1719991314054</created>
+-      <option name="number" value="00026" />
+-      <option name="presentableId" value="LOCAL-00026" />
++      <created>1722930238655</created>
++      <option name="number" value="00045" />
++      <option name="presentableId" value="LOCAL-00045" />
+       <option name="project" value="LOCAL" />
+-      <updated>1719991314054</updated>
++      <updated>1722930238655</updated>
+     </task>
+-    <task id="LOCAL-00027" summary="Домашняя работа по уроку &quot;Атрибуты и методы объекта.&quot;">
++    <task id="LOCAL-00046" summary="Выполнение Домашнее задание по уроку &quot;Try и Except&quot;.">
+       <option name="closed" value="true" />
+-      <created>1719991376523</created>
+-      <option name="number" value="00027" />
+-      <option name="presentableId" value="LOCAL-00027" />
++      <created>1722973958098</created>
++      <option name="number" value="00046" />
++      <option name="presentableId" value="LOCAL-00046" />
+       <option name="project" value="LOCAL" />
+-      <updated>1719991376523</updated>
++      <updated>1722973958098</updated>
+     </task>
+-    <task id="LOCAL-00028" summary="Домашняя работа по уроку &quot;Специальные методы классов&quot;">
++    <task id="LOCAL-00047" summary="Выполнение Домашнее задание по уроку &quot;Try и Except&quot;. Исправление недоработки.">
+       <option name="closed" value="true" />
+-      <created>1720166355760</created>
+-      <option name="number" value="00028" />
+-      <option name="presentableId" value="LOCAL-00028" />
++      <created>1722974810976</created>
++      <option name="number" value="00047" />
++      <option name="presentableId" value="LOCAL-00047" />
+       <option name="project" value="LOCAL" />
+-      <updated>1720166355760</updated>
++      <updated>1722974810976</updated>
++    </task>
++    <task id="LOCAL-00048" summary="Выполнение Домашнее задание по теме &quot;Сложные моменты и исключения в стеке вызовов функции&quot;.">
++      <option name="closed" value="true" />
++      <created>1723016446559</created>
++      <option name="number" value="00048" />
++      <option name="presentableId" value="LOCAL-00048" />
++      <option name="project" value="LOCAL" />
++      <updated>1723016446559</updated>
++    </task>
++    <task id="LOCAL-00049" summary="Выполнение Домашнее задание по теме &quot;Создание исключений&quot;.">
++      <option name="closed" value="true" />
++      <created>1723108771200</created>
++      <option name="number" value="00049" />
++      <option name="presentableId" value="LOCAL-00049" />
++      <option name="project" value="LOCAL" />
++      <updated>1723108771200</updated>
++    </task>
++    <task id="LOCAL-00050" summary="Выполнение Домашнее задание по теме &quot;Введение в функциональное программирование&quot;">
++      <option name="closed" value="true" />
++      <created>1723122506220</created>
++      <option name="number" value="00050" />
++      <option name="presentableId" value="LOCAL-00050" />
++      <option name="project" value="LOCAL" />
++      <updated>1723122506220</updated>
++    </task>
++    <task id="LOCAL-00051" summary="Выполнение Домашнее задание по теме &quot;Списковые, словарные сборки&quot;">
++      <option name="closed" value="true" />
++      <created>1723125243079</created>
++      <option name="number" value="00051" />
++      <option name="presentableId" value="LOCAL-00051" />
++      <option name="project" value="LOCAL" />
++      <updated>1723125243079</updated>
++    </task>
++    <task id="LOCAL-00052" summary="Выполнение Домашнее задание по теме &quot;Генераторные сборки&quot;">
++      <option name="closed" value="true" />
++      <created>1723129130791</created>
++      <option name="number" value="00052" />
++      <option name="presentableId" value="LOCAL-00052" />
++      <option name="project" value="LOCAL" />
++      <updated>1723129130791</updated>
++    </task>
++    <task id="LOCAL-00053" summary="Выполнение # Домашнее задание по теме &quot;Создание функций на лету&quot;">
++      <option name="closed" value="true" />
++      <created>1723201325355</created>
++      <option name="number" value="00053" />
++      <option name="presentableId" value="LOCAL-00053" />
++      <option name="project" value="LOCAL" />
++      <updated>1723201325355</updated>
++    </task>
++    <task id="LOCAL-00054" summary="Выполнение # Домашнее задание по теме &quot;Создание функций на лету&quot;">
++      <option name="closed" value="true" />
++      <created>1723201493261</created>
++      <option name="number" value="00054" />
++      <option name="presentableId" value="LOCAL-00054" />
++      <option name="project" value="LOCAL" />
++      <updated>1723201493261</updated>
++    </task>
++    <task id="LOCAL-00055" summary="Выполнение # Домашнее задание по теме &quot;Создание функций на лету&quot;">
++      <option name="closed" value="true" />
++      <created>1723204550791</created>
++      <option name="number" value="00055" />
++      <option name="presentableId" value="LOCAL-00055" />
++      <option name="project" value="LOCAL" />
++      <updated>1723204550791</updated>
++    </task>
++    <task id="LOCAL-00056" summary="Выполнение Домашнее задание по теме &quot;Итераторы&quot;">
++      <option name="closed" value="true" />
++      <created>1723288654778</created>
++      <option name="number" value="00056" />
++      <option name="presentableId" value="LOCAL-00056" />
++      <option name="project" value="LOCAL" />
++      <updated>1723288654778</updated>
++    </task>
++    <task id="LOCAL-00057" summary="Выполнение Домашнее задание по теме &quot;Итераторы&quot;">
++      <option name="closed" value="true" />
++      <created>1723288735563</created>
++      <option name="number" value="00057" />
++      <option name="presentableId" value="LOCAL-00057" />
++      <option name="project" value="LOCAL" />
++      <updated>1723288735563</updated>
++    </task>
++    <task id="LOCAL-00058" summary="Выполнение Домашнее задание по теме &quot;Генераторы&quot;">
++      <option name="closed" value="true" />
++      <created>1723363114915</created>
++      <option name="number" value="00058" />
++      <option name="presentableId" value="LOCAL-00058" />
++      <option name="project" value="LOCAL" />
++      <updated>1723363114915</updated>
++    </task>
++    <task id="LOCAL-00059" summary="Выполнение Домашнее задание по теме &quot;Декораторы&quot;">
++      <option name="closed" value="true" />
++      <created>1723369791984</created>
++      <option name="number" value="00059" />
++      <option name="presentableId" value="LOCAL-00059" />
++      <option name="project" value="LOCAL" />
++      <updated>1723369791984</updated>
++    </task>
++    <task id="LOCAL-00060" summary="Переименование теневой переменной">
++      <option name="closed" value="true" />
++      <created>1723572793435</created>
++      <option name="number" value="00060" />
++      <option name="presentableId" value="LOCAL-00060" />
++      <option name="project" value="LOCAL" />
++      <updated>1723572793435</updated>
++    </task>
++    <task id="LOCAL-00061" summary="Оптимизация решения">
++      <option name="closed" value="true" />
++      <created>1723573098730</created>
++      <option name="number" value="00061" />
++      <option name="presentableId" value="LOCAL-00061" />
++      <option name="project" value="LOCAL" />
++      <updated>1723573098730</updated>
++    </task>
++    <task id="LOCAL-00062" summary="Оптимизация решения">
++      <option name="closed" value="true" />
++      <created>1723573389871</created>
++      <option name="number" value="00062" />
++      <option name="presentableId" value="LOCAL-00062" />
++      <option name="project" value="LOCAL" />
++      <updated>1723573389871</updated>
++    </task>
++    <task id="LOCAL-00063" summary="Исправление кода по замечаниям преподавателя.">
++      <option name="closed" value="true" />
++      <created>1723713483998</created>
++      <option name="number" value="00063" />
++      <option name="presentableId" value="LOCAL-00063" />
++      <option name="project" value="LOCAL" />
++      <updated>1723713483998</updated>
++    </task>
++    <task id="LOCAL-00064" summary="Домашнее задание по теме &quot;Создание потоков&quot;.">
++      <option name="closed" value="true" />
++      <created>1724353276720</created>
++      <option name="number" value="00064" />
++      <option name="presentableId" value="LOCAL-00064" />
++      <option name="project" value="LOCAL" />
++      <updated>1724353276721</updated>
++    </task>
++    <task id="LOCAL-00065" summary="# Домашнее задание по теме &quot;Потоки на классах&quot;">
++      <option name="closed" value="true" />
++      <created>1724353338015</created>
++      <option name="number" value="00065" />
++      <option name="presentableId" value="LOCAL-00065" />
++      <option name="project" value="LOCAL" />
++      <updated>1724353338015</updated>
++    </task>
++    <task id="LOCAL-00066" summary="Домашнее задание по теме &quot;Блокировки и обработка ошибок&quot;">
++      <option name="closed" value="true" />
++      <created>1724395157158</created>
++      <option name="number" value="00066" />
++      <option name="presentableId" value="LOCAL-00066" />
++      <option name="project" value="LOCAL" />
++      <updated>1724395157158</updated>
++    </task>
++    <task id="LOCAL-00067" summary="Домашнее задание по теме &quot;Блокировки и обработка ошибок&quot;">
++      <option name="closed" value="true" />
++      <created>1724485082658</created>
++      <option name="number" value="00067" />
++      <option name="presentableId" value="LOCAL-00067" />
++      <option name="project" value="LOCAL" />
++      <updated>1724485082658</updated>
++    </task>
++    <task id="LOCAL-00068" summary="Дополнительное практическое задание по модулю: &quot;Наследование классов.&quot;">
++      <option name="closed" value="true" />
++      <created>1724592382528</created>
++      <option name="number" value="00068" />
++      <option name="presentableId" value="LOCAL-00068" />
++      <option name="project" value="LOCAL" />
++      <updated>1724592382528</updated>
+     </task>
+-    <option name="localTasksCounter" value="29" />
++    <option name="localTasksCounter" value="69" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+-    <MESSAGE value="Урок &quot;Цели и задачи. Поток выполнения программы.&quot;" />
+-    <MESSAGE value="Добавил комментарии" />
+-    <MESSAGE value="Выполнение второго заадния модуля №2" />
+-    <MESSAGE value="Выполнение третьего заадния модуля №2" />
+-    <MESSAGE value="Выполнение четвертого заадния модуля №2" />
+-    <MESSAGE value="Выполнение пятого заадния модуля №2" />
+-    <MESSAGE value="Выполнение дополнительного заадния модуля №2" />
+-    <MESSAGE value="Выполнение первого заадния модуля №3." />
+-    <MESSAGE value="Выполнение второго заадния модуля №3." />
+-    <MESSAGE value="Выполнение третьего заадния модуля №3." />
+-    <MESSAGE value="Домашняя работа по уроку &quot;Модули и пакеты" />
+-    <MESSAGE value="Домашняя работа по уроку &quot;Атрибуты и методы объекта.&quot;" />
+-    <MESSAGE value="Домашняя работа по уроку &quot;Специальные методы классов&quot;" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа по уроку &quot;Специальные методы классов&quot;" />
++    <MESSAGE value="Самостоятельная работа по уроку &quot;Произвольное число параметров&quot;." />
++    <MESSAGE value="Домашнее задание по теме &quot;Режимы открытия файлов&quot;" />
++    <MESSAGE value="Домашнее задание по теме &quot;Позиционирование в файле&quot;." />
++    <MESSAGE value="Домашнее задание по теме Домашнее задание по теме &quot;Оператор &quot;with&quot;." />
++    <MESSAGE value="Домашнее задание по теме Домашнее задание по теме &quot;Форматирование строк&quot;." />
++    <MESSAGE value="Перемещение в другой каталог" />
++    <MESSAGE value="Выполнение Домашнего задания по теме &quot;Файлы в операционной системе&quot;." />
++    <MESSAGE value="Выполнение Домашнее задание по уроку &quot;Try и Except&quot;." />
++    <MESSAGE value="Выполнение Домашнее задание по уроку &quot;Try и Except&quot;. Исправление недоработки." />
++    <MESSAGE value="Выполнение Домашнее задание по теме &quot;Сложные моменты и исключения в стеке вызовов функции&quot;." />
++    <MESSAGE value="Выполнение Домашнее задание по теме &quot;Создание исключений&quot;." />
++    <MESSAGE value="Выполнение Домашнее задание по теме &quot;Введение в функциональное программирование&quot;" />
++    <MESSAGE value="Выполнение Домашнее задание по теме &quot;Списковые, словарные сборки&quot;" />
++    <MESSAGE value="Выполнение Домашнее задание по теме &quot;Генераторные сборки&quot;" />
++    <MESSAGE value="Выполнение # Домашнее задание по теме &quot;Создание функций на лету&quot;" />
++    <MESSAGE value="Выполнение Домашнее задание по теме &quot;Итераторы&quot;" />
++    <MESSAGE value="Выполнение Домашнее задание по теме &quot;Генераторы&quot;" />
++    <MESSAGE value="Выполнение Домашнее задание по теме &quot;Декораторы&quot;" />
++    <MESSAGE value="Переименование теневой переменной" />
++    <MESSAGE value="Оптимизация решения" />
++    <MESSAGE value="Исправление кода по замечаниям преподавателя." />
++    <MESSAGE value="Домашнее задание по теме &quot;Создание потоков&quot;." />
++    <MESSAGE value="# Домашнее задание по теме &quot;Потоки на классах&quot;" />
++    <MESSAGE value="Домашнее задание по теме &quot;Блокировки и обработка ошибок&quot;" />
++    <MESSAGE value="Дополнительное практическое задание по модулю: &quot;Наследование классов.&quot;" />
++    <option name="LAST_COMMIT_MESSAGE" value="Дополнительное практическое задание по модулю: &quot;Наследование классов.&quot;" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+       <breakpoints>
+         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+-          <url>file://$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_2_4.py</url>
++          <url>file://$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_2/module_2_4.py</url>
+           <line>17</line>
+           <option name="timeStamp" value="6" />
+         </line-breakpoint>
+-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+-          <url>file://$PROJECT_DIR$/../../Module_No2._Operators/Module_No2._Operators/module_2_7_1.py</url>
+-          <line>9</line>
+-          <option name="timeStamp" value="8" />
+-        </line-breakpoint>
+       </breakpoints>
+     </breakpoint-manager>
++    <watches-manager>
++      <configuration name="PythonConfigurationType">
++        <watch expression="Shop" language="Python" />
++      </configuration>
++    </watches-manager>
+   </component>
+ </project>
+\ No newline at end of file
+Index: ../../Module_No2._Operators/Module_No2._Operators/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"Black\">\r\n    <option name=\"sdkName\" value=\"Python 3.12 (.venv)\" />\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" project-jdk-name=\"Python 3.12 (.venv)\" project-jdk-type=\"Python SDK\" />\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Module_No2._Operators/Module_No2._Operators/.idea/misc.xml b/../../Module_No2._Operators/Module_No2._Operators/.idea/misc.xml
+--- a/../../Module_No2._Operators/Module_No2._Operators/.idea/misc.xml	(revision 08610d0c1e80448b9aaa2dad4388fe1b29a3f5a7)
++++ b/../../Module_No2._Operators/Module_No2._Operators/.idea/misc.xml	(date 1721560934709)
+@@ -4,4 +4,7 @@
+     <option name="sdkName" value="Python 3.12 (.venv)" />
+   </component>
+   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (.venv)" project-jdk-type="Python SDK" />
++  <component name="PyPackaging">
++    <option name="earlyReleasesAsUpgrades" value="true" />
++  </component>
+ </project>
+\ No newline at end of file
+Index: ../../Module_No2._Operators/Module_No2._Operators/module_5/module5hard.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Module_No2._Operators/Module_No2._Operators/module_5/module5hard.py b/../../Module_No2._Operators/Module_No2._Operators/module_5/module5hard.py
+new file mode 100644
+--- /dev/null	(date 1721243741543)
++++ b/../../Module_No2._Operators/Module_No2._Operators/module_5/module5hard.py	(date 1721243741543)
+@@ -0,0 +1,231 @@
++# Дополнительное практическое задание по модулю*
++# Дополнительное практическое задание по модулю: "Классы и объекты."
++#
++# Цель: Применить знания полученные в модуле, решив задачу повышенного уровня сложности.
++#
++# Задание "Свой YouTube":
++# Университет Urban подумывает о создании своей платформы, где будут размещаться дополнительные полезные ролики на
++# тему IT (юмористические, интервью и т.д.). Конечно же для старта написания интернет ресурса требуются хотя бы базовые
++# знания программирования.
++#
++# Именно вам выпала возможность продемонстрировать их, написав небольшой набор классов, которые будут выполнять похожий
++# функционал на сайте.
++#
++# Всего будет 3 класса: UrTube, Video, User.
++#
++# Общее ТЗ:
++# Реализовать классы для взаимодействия с платформой, каждый из которых будет содержать методы добавления видео,
++# авторизации и регистрации пользователя и т.д.
++#
++# Подробное ТЗ:
++#
++
++
++#
++#
++# Примечания:
++# Не забывайте для удобства использовать dunder(магические) методы: __str__, __repr__, __contains__, __eq__ и др.
++# (повторить можно здесь)
++# Чтобы не запутаться рекомендуется после реализации каждого метода проверять как он работает, тестировать разные
++# вариации.
++import tkinter as tk
++
++import time as tm
++
++
++class User:
++    """""
++    Каждый объект класса User должен обладать следующими атрибутами и методами:
++    Атриубуты: nickname(имя пользователя, строка), password(в хэшированном виде, число), age(возраст, число)
++    """""
++
++    def __init__(self, nickname, password, age=0):
++        self.nickname = nickname
++        self.password = hash(password)
++        self.age = age
++
++    def __eq__(self, other):
++        return self.nickname == other.nickname and self.password == hash(other.password) and self.age == other.age
++
++    # def __hash__(self):
++    #     return hash(self.password)
++
++
++class Video:
++    """
++    Каждый объект класса Video должен обладать следующими атрибутами и методами:
++    Атриубуты: title(заголовок, строка), duration(продолжительность, секунды), time_now(секунда
++    остановки (изначально 0)),
++    adult_mode(ограничение по возрасту, bool (False по умолчанию))
++    """
++
++    def __init__(self, title='', duration=0, time_now=0, adult_mode=False):
++        self.title = title
++        self.duration = duration
++        self.time_now = time_now
++        self.adult_mode = adult_mode
++
++    def __eq__(self, other):
++        return self.title == other.title and self.duration == other.duration
++
++
++class UrTube:
++    """
++    Каждый объект класса UrTube должен обладать следующими атрибутами и методами:
++    Атриубты: users(список объектов User), videos(список объектов Video), current_user(текущий пользователь, User)
++
++    Метод log_in, который принимает на вход аргументы: nickname, password и пытается найти пользователя в users с
++    такими же логином и паролем. Если такой пользователь существует, то current_user меняется на найденного. Помните,
++    что password передаётся в виде строки, а сравнивается по хэшу.
++    Метод register, который принимает три аргумента: nickname, password, age, и добавляет пользователя в список, если
++    пользователя не существует (с таким же nickname). Если существует, выводит на экран: "Пользователь {nickname} уже
++    существует". После регистрации, вход выполняется автоматически.
++    Метод log_out для сброса текущего пользователя на None.
++    Метод add, который принимает неограниченное кол-во объектов класса Video и все добавляет в videos, если с таким же
++    названием видео ещё не существует. В противном случае ничего не происходит.
++    Метод get_videos, который принимает поисковое слово и возвращает список названий всех видео, содержащих поисковое
++    слово. Следует учесть, что слово 'UrbaN' присутствует в строке 'Urban the best' (не учитывать регистр).
++    Метод watch_video, который принимает название фильма, если не находит точного совпадения(вплоть до пробела), то
++    ничего не воспроизводится, если же находит - ведётся отчёт в консоль на какой секунде ведётся просмотр. После
++    текущее время просмотра данного видео сбрасывается.
++    Для метода watch_video так же учитывайте следующие особенности:
++    Для паузы между выводами секунд воспроизведения можно использовать функцию sleep из модуля time.
++    Воспроизводить видео можно только тогда, когда пользователь вошёл в UrTube. В противном случае выводить в консоль
++    надпись: "Войдите в аккаунт, чтобы смотреть видео"
++    Если видео найдено, следует учесть, что пользователю может быть отказано в просмотре, т.к. есть ограничения 18+.
++    Должно выводиться сообщение: "Вам нет 18 лет, пожалуйста покиньте страницу"
++    После воспроизведения нужно выводить: "Конец видео"
++    """
++
++    def __init__(self):
++        self.users = []
++        self.videos = []
++        self.current_user = None
++
++    @staticmethod
++    def window_login_reg(reg):
++
++        window = tk.Tk()
++        window.title('URBAN TUBE')
++        window.geometry('350x350')
++        window.resizable(False, False)
++
++        _login = tk.Entry(window, width=28)
++        _login.place(x=100, y=75)
++        _password = tk.Entry(window, width=28)
++        _password.place(x=100, y=150)
++        label_login = tk.Label(window, text='Логин:')
++        label_login.place(x=100, y=50)
++        label_password = tk.Label(window, text='Пароль:')
++        label_password.place(x=100, y=125)
++        if reg:
++            _age = tk.Entry(window, width=28)
++            _age.place(x=100, y=225)
++            label_age = tk.Label(window, text='Возраст:')
++            label_age.place(x=100, y=200)
++            text_button = 'Зарегистрироваться'
++            y_button = 275
++            command_button = 'register' # register(UrTube(), str(_login.get()), str(_password.get()), str(_age.get()))
++        else:
++            text_button = 'Войти(Авторизоваться)'
++            y_button = 200
++            command_button = 'login' # log_in(str(_login.get()), str(_password.get()))
++        button_add = tk.Button(window, text=text_button, wraplength=400, height=2, command=command_button)
++        button_add.place(x=100, y=y_button)
++
++        window.mainloop()
++
++    def log_in(self, nickname, password):
++
++        for i in self.users:
++            if nickname == i.nickname:
++                if hash(password) == i.password:
++                    self.current_user = i
++                else:
++                    print(f'Не верный пароль')
++            else:
++                print(f'Пользователь {nickname} не найден в базе')
++
++    def register(self, nickname, password, age):
++        no_user = (len(self.users) == 0)
++        new_user = User(nickname, password, age)
++        self.users.append(new_user)
++        self.log_in(nickname, password)
++        # for i in self.users:
++        #     if nickname == i.nicname:
++        #         print(f'Пользователь {nickname} уже существует')
++        #     else:
++        #         new_user = User(nickname, password, age)
++        #         self.users.append(new_user)
++        #         self.log_in(nickname, password)
++
++    def log_out(self):
++        self.current_user = None
++
++    def add(self, *args):
++        list_video = self.videos
++        for i in args:
++
++            # Проверить на наличие в списке
++            self.videos.append(i)
++# Метод add, который принимает неограниченное кол-во объектов класса Video и все добавляет в videos, если с таким же
++# названием видео ещё не существует. В противном случае ничего не происходит.
++
++    def get_videos(self, search_word):
++        all_video = []
++        for i in self.videos:
++            tv = i.title.lower()
++            if tv.find(search_word.lower()) >= 0:
++                all_video.append(i.title)
++        return all_video
++
++    def watch_video(self, title):
++        if self.current_user is None:
++            print(f'Войдите в аккаунт, что бы смотреть видео')
++
++# Метод watch_video, который принимает название фильма, если не находит точного совпадения(вплоть до пробела),
++# то ничего не воспроизводится, если же находит - ведётся отчёт в консоль на какой секунде ведётся просмотр. После
++# текущее время просмотра данного видео сбрасывается.
++
++#  Регистрация или вход пользователя;
++
++
++#    Код для проверки:
++
++ur = UrTube()
++
++v1 = Video('Лучший язык программирования 2024 года', 200)
++v2 = Video('Для чего девушкам парень программист?', 10, adult_mode=True)
++
++#
++# Добавление видео
++ur.add(v1, v2)
++
++
++ur.window_login_reg(True)
++# # # Проверка поиска
++print(ur.get_videos('лучший'))
++print(ur.get_videos('ПРОГ'))
++# #
++# # # Проверка на вход пользователя и возрастное ограничение
++# ur.watch_video('Для чего девушкам парень программист?')
++# ur.register('vasya_pupkin', 'lolkekcheburek', 13)
++# ur.watch_video('Для чего девушкам парень программист?')
++# ur.register('urban_pythonist', 'iScX4vIJClb9YQavjAgF', 25)
++# ur.watch_video('Для чего девушкам парень программист?')
++# #
++# # # Проверка входа в другой аккаунт
++# ur.register('vasya_pupkin', 'F8098FM8fjm9jmi', 55)
++# print(ur.current_user)
++# #
++# # # Попытка воспроизведения несуществующего видео
++# ur.watch_video('Лучший язык программирования 2024 года!')
++# #
++# # Вывод в консоль:
++# # ['Лучший язык программирования 2024 года']
++# # ['Лучший язык программирования 2024 года', 'Для чего девушкам парень программист?']
++# # Войдите в аккаунт, чтобы смотреть видео
++# # Вам нет 18 лет, пожалуйста покиньте страницу
++# # 1 2 3 4 5 6 7 8 9 10 Конец видео
++# # Пользователь vasya_pupkin уже существует
++# # urban_pythonist
