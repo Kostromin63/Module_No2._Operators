@@ -95,7 +95,7 @@ class Cafe:
         while not self.queue.empty() or len(occupied_tables(self)) > 0:
 
             for table in occupied_tables(self):
-                if table.guest.is_alive():
+                if not table.guest.is_alive():
                     print(f'{table.guest.name} за {table.number} столом покушал(а) и ушлел(а).')
                     print(f'Стол немер {table.number} свободен.')
                     table.guest = None
