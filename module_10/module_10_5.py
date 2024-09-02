@@ -54,9 +54,8 @@ filenames = [f'./file {number}.txt' for number in range(1, 5)]
 # Многопроцессный
 
 if __name__ == "__main__":
-
-    with multiprocessing.Pool(processes=2) as pool:
-        start = datetime.datetime.now()
+    start = datetime.datetime.now()
+    with multiprocessing.Pool(processes=8) as pool:
         pool.map(read_info, filenames)
     end = datetime.datetime.now()
     print(end - start)
