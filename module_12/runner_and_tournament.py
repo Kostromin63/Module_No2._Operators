@@ -54,9 +54,6 @@ class Tournament:
                 if dist_ranner >= self.full_distance:
                     tuple_ = (dist_ranner, [participant])
                     list_iter.append(tuple_)
-                    # data_participant.append(tuple_)
-                    # finishers[place] = participant
-                    # place += 1
                     self.participants.remove(participant)
             if len(list_iter) > 1:
                 data_participant.append(list_iter)
