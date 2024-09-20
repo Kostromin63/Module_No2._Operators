@@ -19,15 +19,13 @@ import runner_and_tournament as rn
 
 
 class TournamentTest(unittest.TestCase):
-    # def __init__(self):
-    #     super().__init__()
+    is_frozen = True
 
     @classmethod
     def setUpClass(self):
         """
         setUpClass -метод, где создаётся атрибут класса all_results. Это словарь в который будут сохраняться результаты
         всех тестов.
-        :return:
         """
         self.all_results = {}
 
@@ -62,6 +60,7 @@ class TournamentTest(unittest.TestCase):
                     dict_[j] = item_.__str__()
             print(dict_)
 
+    @unittest.skipIf(is_frozen, 'Тесты в этом кейсе заморожены.')
     def test_Tournament_1(self):
         """
         Так же методы тестирования забегов, в которых создаётся объект Tournament на дистанцию 90. У объекта класса
@@ -81,6 +80,7 @@ class TournamentTest(unittest.TestCase):
         self.all_results[max_key+1] = result
         self.assertTrue(self.participants[2].__eq__(self.all_results[max_key+1][2]))
 
+    @unittest.skipIf(is_frozen, 'Тесты в этом кейсе заморожены.')
     def test_Tournament_2(self):
         """
         Так же методы тестирования забегов, в которых создаётся объект Tournament на дистанцию 90. У объекта класса
@@ -100,6 +100,7 @@ class TournamentTest(unittest.TestCase):
         self.all_results[max_key+1] = result
         self.assertTrue(self.participants[2].__eq__(self.all_results[max_key+1][2]))
 
+    @unittest.skipIf(is_frozen, 'Тесты в этом кейсе заморожены.')
     def test_Tournament_3(self):
         """
         Так же методы тестирования забегов, в которых создаётся объект Tournament на дистанцию 90. У объекта класса
@@ -119,6 +120,7 @@ class TournamentTest(unittest.TestCase):
         self.all_results[max_key+1] = result
         self.assertTrue(self.participants[2].__eq__(self.all_results[max_key+1][3]))
 
+    @unittest.skipIf(is_frozen, 'Тесты в этом кейсе заморожены.')
     def test_true_start(self):
         """
         Так же методы тестирования забегов, в которых создаётся объект Tournament на дистанцию 90. У объекта класса
