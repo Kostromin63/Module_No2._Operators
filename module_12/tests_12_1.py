@@ -32,12 +32,6 @@ class RunnerTest(unittest.TestCase):
     Напишите класс RunnerTest, наследуемый от TestCase из модуля unittest
     """
     is_frozen = False
-    # @classmethod
-    # def setUpClass(self):
-    #     """
-    #     Класс RunnerTest дополнить атрибутом is_frozen = False
-    #     """
-    #     self.is_frozen = False
 
     @unittest.skipIf(is_frozen, 'Тесты в этом кейсе заморожены.')
     def test_walk(self):
