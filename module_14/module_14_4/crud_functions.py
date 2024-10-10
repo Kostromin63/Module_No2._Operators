@@ -4,14 +4,17 @@
 # get_all_products
 import sqlite3 as sq
 
+
 def connect_to_db():
     connection = sq.connect('not_telegram.db')
     cursor = connection.cursor()
-    return (connection, cursor)
+    return connection, cursor
+
 
 def close_connection(connection):
     connection.commit()
     connection.close()
+
 
 def initiate_db():
     """
@@ -25,7 +28,6 @@ def initiate_db():
     """
 
     params_conn = connect_to_db()
-
     params_conn[1].execute(
         """
         CREATE TABLE IF NOT EXISTS Products(
@@ -36,7 +38,8 @@ def initiate_db():
         """
     )
 
-    close_connection(params_conn.connection)
+    close_connection(params_conn[0])
+
 
 def get_all_products():
     """
@@ -50,19 +53,21 @@ def get_all_products():
         """
     )
 
-    return params_conn[1].fetchall()
+    result = params_conn[1].fetchall()
+    close_connection(params_conn[0])
 
-    close_connection(params_connection.connection)
+    return result
+
 
 def add_products(products):
-    params_connection = connect_to_db()
+    params_conn = connect_to_db()
     for product in products:
-        params_connection.cursor.execute(
+        params_conn[1].execute(
             """INSERT INTO Products (title, description, price) VALUES (?, ?, ?)""",
             (product[0], product[1], product[2])
         )
 
-    close_connection(params_connection.connection)
+    close_connection(params_conn[0])
 
 # initiate_db()
 # products = [
@@ -77,5 +82,3 @@ def add_products(products):
 # ]
 # add_products(products)
 # print(get_all_products())
-
-
