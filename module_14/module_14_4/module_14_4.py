@@ -30,11 +30,10 @@ from aiogram.dispatcher import FSMContext
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 import asyncio
-import crud_functions
-import sqlite3 as sq
+
 from crud_functions import get_all_products
 
-api = ''
+api = '7864939332:AAFQKIA64zCiQYWcz_3PquIYVkWyNLwfLWA'
 bot = Bot(token=api)
 dp = Dispatcher(bot, storage=MemoryStorage())
 
@@ -97,9 +96,7 @@ class UserState(StatesGroup):
     gender = State()
 
 
-
 all_products = get_all_products()
-
 
 
 @dp.message_handler(text='Купить')
