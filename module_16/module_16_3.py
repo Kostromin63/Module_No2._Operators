@@ -62,7 +62,7 @@ async def update_user(
 
 
 # 4
-@app.delete('/user_id')
+@app.delete('/user/{user_id}')
 async def delete_user(
                     user_id: Annotated[str, Path(min_length=1, max_length=3, description='Enter User ID')]
                     ) -> str:
