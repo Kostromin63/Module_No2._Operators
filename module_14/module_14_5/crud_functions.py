@@ -132,7 +132,10 @@ def is_included(username):
     result = params_conn[1].fetchall()
     close_connection(params_conn[0])
 
-    return len(result)
+    if len(result):
+        return True
+    else:
+        return False
 
 # initiate_db()
 # products = [
