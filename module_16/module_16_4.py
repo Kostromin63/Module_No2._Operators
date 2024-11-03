@@ -131,12 +131,6 @@ async def delete_user(
         raise HTTPException(status_code=404, detail="User was not found")
 
 
-@app.delete('/')
-async def delete_all_user() -> str:
-    users.clear()
-    return "Все записи о пользователях удалены."
-
-
 # Выполните каждый из этих запросов по порядку. Ответы должны совпадать:
 # 1. GET '/users'
 #
