@@ -33,44 +33,6 @@ class User(BaseModel):
     username: str = None
     age: int = None
 
-
-# next_index = str(int(max(users, key=Г)) + 1)
-# next_index = max(users, key=lambda User : User.id).id + 1
-#
-# def create_user(username, age) -> User:
-#     if any(users):
-#         next_index = max(users, key=lambda user: user.id).id + 1
-#     else:
-#         next_index = 1
-#     user = User(id=next_index, username=username, age=age)
-#     users.append(user)
-#     return user
-
-#
-# def apdate_user(user_id, username, age):
-#     user_wrapped_in_a_sheet = list(filter(lambda user: user.id == user_id, users)) #  голубец :)
-#     if  any(user_wrapped_in_a_sheet):
-#         user = user_wrapped_in_a_sheet[0]
-#         user.id = user_id
-#         user.username = username
-#         user.age = age
-#     else:
-#         try:
-#             raise HTTPException(status_code=404, detail="User was not found")
-#         except HTTPException as exc:
-#             print(exc)
-#
-#
-#
-# def delite_user(user_id):
-#     users.pop(user_id)
-#     print(users)
-#
-#
-# def get_user(user_id) -> User:
-# #    return users[user.id=user_id]
-#     user = [user for user in users if user.id == user_id]
-#     return user[0]
 # Измените и дополните ранее описанные 4 CRUD запроса:
 # get запрос по маршруту '/users' теперь возвращает список users.
 #
@@ -91,7 +53,7 @@ class User(BaseModel):
 
 @app.get('/')
 async def welcom() -> str:
-    return 'Прювет волку!'
+    return 'Welcom!!'
 
 
 @app.get('/users')
@@ -103,7 +65,6 @@ async def get_users() -> List[User]:
     return users
 
 
-# 2
 @app.post('/user/{username}/{age}')
 async def user_registration(
         username: Annotated[str, Path(min_length=3, max_length=20, description='Enter username', example='Vasiliy')],
@@ -129,7 +90,6 @@ async def user_registration(
     return user
 
 
-# 3
 @app.put('/user/{user_id}/{username}/{age}')
 async def update_user(
         user_id: Annotated[int, Path(ge=1, le=100, description='Enter User ID', example=125)],
@@ -153,29 +113,22 @@ async def update_user(
         user.age = age
         return user
     else:
-        try:
-            raise HTTPException(status_code=404, detail="User was not found")
-        except HTTPException as exc:
-            return f'{exc}'
+        raise HTTPException(status_code=404, detail="User was not found")
 
 
-# 4
 @app.delete('/user/{user_id}')
 async def delete_user(
         user_id: Annotated[int, Path(ge=1, le=100, description='Enter User ID', example=125)]
-        ) -> str:
+        ) -> User:
 
     user_wrapped_in_a_sheet = list(filter(lambda us: us.id == user_id, users))  # голубец :)
     if any(user_wrapped_in_a_sheet):
         user = user_wrapped_in_a_sheet[0]
         index_delete = users.index(user)
         users.pop(index_delete)
-        return f'User {user_id} has been deleted'
+        return user
     else:
-        try:
-            raise HTTPException(status_code=404, detail="User was not found")
-        except HTTPException as exc:
-            return f'{exc}'
+        raise HTTPException(status_code=404, detail="User was not found")
 
 
 @app.delete('/')
